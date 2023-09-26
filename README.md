@@ -9,7 +9,7 @@ Hello there! I'm a second-year student pursuing a Bachelor of Technology (B.Tech
 - REST API Development: I am skilled in creating REST APIs using Express, allowing me to build backend functionality for my projects.
 - API Testing: I am familiar with tools like Postman for testing and debugging APIs, ensuring their smooth integration and functionality.
 - Bootstrap and Material-UI: I have knowledge of popular CSS frameworks like Bootstrap and Material-UI, enabling me to create visually appealing and well-structured user interfaces.
-- Font Awesome: I have experience working with Font Awesome, which allows me to easily incorporate scalable vector icons into my projects.
+- Font Awesome and Chakra UI: I have extensive experience working with Font Awesome and Chakra UI, a robust UI library that not only simplifies the integration of scalable vector icons but also provides a comprehensive set of customizable components, styles, and utility functions, making it a powerful tool for creating aesthetically pleasing and responsive user interfaces in my projects.
 - Blockchain Development: I have a keen interest in blockchain technology and aspire to become a blockchain developer. I am eager to explore and learn more about this field as I progress in my coding journey.
 
 ## Learning Journey
