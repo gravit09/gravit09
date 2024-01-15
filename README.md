@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gravit
 
-Hello there! I'm a second-year student pursuing a Bachelor of Technology (B.Tech) in Computer Science at GLA University, Mathura. I have a strong passion for frontend development and enjoy working with technologies such as HTML, CSS, and JavaScript. I have experience building projects using React and have been actively expanding my knowledge by learning TypeScript and Next.js.
+Hello there! I'm a second-year student pursuing a Bachelor of Technology (B.Tech) in Computer Science at GLA University, Mathura. I have a strong passion for frontend development and enjoy working with technologies such as HTML, CSS,JavaScript and React. I have experience building projects using React and have been actively expanding my knowledge by learning TypeScript and Next.js.
 
 ## Skills
 
