@@ -16,6 +16,22 @@ Hello there! I'm a second-year student pursuing a Bachelor of Technology (B.Tech
 
 I am continuously expanding my knowledge and skills in the world of technology. Currently, I am actively learning TypeScript and Next.js to enhance my frontend development capabilities. I believe that learning new technologies and frameworks is essential to stay updated and build more efficient and modern applications. Additionally, I am open to exploring other areas and tools in my coding journey to broaden my skill set and adapt to emerging trends and technologies.
 
+
+##Work Experience
+
+-College Notes Website (First Semester Hackathon):
+Developed a notes website for our college during the first-semester hackathon.
+
+-E-commerce Site Frontend (React and Redux):
+Designed and implemented the frontend for an e-commerce website using technologies like React and Redux.
+
+-Decentralized Application (Dapp) Frontend:
+spearheaded the frontend development of a decentralized application (Dapp) for a Singapore-based company, incorporating cutting-edge technologies.
+
+-Online Proctored Exam Platform:
+Led the frontend development of an online proctored exam platform, ensuring a secure and user-friendly experience for participants.
+
+
 ## Contact
 
 If you have any questions, suggestions, or opportunities you'd like to discuss, feel free to reach out to me at garvitchoudhary09@gmail.com. I'm always excited to connect with fellow developers and engage in meaningful conversations!
