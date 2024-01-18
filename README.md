@@ -26,7 +26,7 @@ Developed a notes website for our college during the first-semester hackathon.
 Designed and implemented the frontend for an e-commerce website using technologies like React and Redux.
 
 -Decentralized Application (Dapp) Frontend:
-spearheaded the frontend development of a decentralized application (Dapp) for a Singapore-based company, incorporating cutting-edge technologies.
+spearheaded the frontend development of a decentralized application (Dapp) for a Singapore-based company.
 
 -Online Proctored Exam Platform:
 Led the frontend development of an online proctored exam platform, ensuring a secure and user-friendly experience for participants.
