@@ -8,6 +8,8 @@
 
 <p align="left">Hello there! I'm Gravit, a student of B.Tech in Computer Science Engineering at GLA University, Mathura. I have a strong passion for frontend development and enjoy working with technologies such as HTML, CSS, JavaScript, and React. I have experience building projects using React and have been actively expanding my knowledge by learning TypeScript and Next.js.</p>
 
+<p align="left">Also, I'm diving headfirst into the whole Web 3.0 scene – you know, where everything's about decentralization and blockchain jazz? Right now, I'm all about mastering cool stuff like Solidity for whipping up smart contracts, Web3.js for chatting with Ethereum and other blockchains, and Ethers.js for cooking up some sweet decentralized apps (dApps). It's like we're on the brink of a whole new internet adventure, where trust and transparency rule the roost. Exciting times, huh?
+</p>
 
 ###
 
