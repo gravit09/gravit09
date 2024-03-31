@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Gravit, from India.<br><br>- 🔭 I’m a frontend developer.<br>- 📚 I'm currently learning web 3.0<br>- ⚡ I love playing video games.</p>
+<p align="left">Hello there! I'm a second-year student pursuing a Bachelor of Technology (B.Tech) in Computer Science at GLA University, Mathura. I have a strong passion for frontend development and enjoy working with technologies such as HTML, CSS,JavaScript and React. I have experience building projects using React and have been actively expanding my knowledge by learning TypeScript and Next.js</p>
 
 ###
 
