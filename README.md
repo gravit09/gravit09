@@ -1,43 +1,85 @@
-# Hi 👋, I'm Gravit
+<h1 align="center">hello World 👋</h1>
 
-Hello there! I'm a second-year student pursuing a Bachelor of Technology (B.Tech) in Computer Science at GLA University, Mathura. I have a strong passion for frontend development and enjoy working with technologies such as HTML, CSS,JavaScript and React. I have experience building projects using React and have been actively expanding my knowledge by learning TypeScript and Next.js.
+###
 
-## Skills
+<h3 align="left">👩‍💻  About Me</h3>
 
-- Frontend Development: I'm proficient in HTML, CSS, and JavaScript, and have hands-on experience in building interactive and responsive web applications.
-- React: I have a good understanding of React and have utilized various libraries such as Framer Motion for animations, Auth0 for authentication, and other frontend libraries to enhance the functionality and user experience of my projects.
-- REST API Development: I am skilled in creating REST APIs using Express, allowing me to build backend functionality for my projects.
-- API Testing: I am familiar with tools like Postman for testing and debugging APIs, ensuring their smooth integration and functionality.
-- Bootstrap and Material-UI: I have knowledge of popular CSS frameworks like Bootstrap and Material-UI, enabling me to create visually appealing and well-structured user interfaces.
-- Font Awesome and Chakra UI: I have extensive experience working with Font Awesome and Chakra UI, a robust UI library that not only simplifies the integration of scalable vector icons but also provides a comprehensive set of customizable components, styles, and utility functions, making it a powerful tool for creating aesthetically pleasing and responsive user interfaces in my projects.
-- Blockchain Development: I have a keen interest in blockchain technology and aspire to become a blockchain developer. I am eager to explore and learn more about this field as I progress in my coding journey.
+###
 
-## Learning Journey
+<p align="left">I'm Gravit, from India.<br><br>- 🔭 I’m a frontend developer.<br>- 📚 I'm currently learning web 3.0<br>- ⚡ I love playing video games.</p>
 
-I am continuously expanding my knowledge and skills in the world of technology. Currently, I am actively learning TypeScript and Next.js to enhance my frontend development capabilities. I believe that learning new technologies and frameworks is essential to stay updated and build more efficient and modern applications. Additionally, I am open to exploring other areas and tools in my coding journey to broaden my skill set and adapt to emerging trends and technologies.
+###
 
+<h3 align="left">🛠 Language and tools</h3>
 
-## Work Experience
+###
 
--College Notes Website (First Semester Hackathon):
-Developed a notes website for our college during the first-semester hackathon.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ipfs/65C2CB" height="40" alt="ipfs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=remix" height="40" alt="remix logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+</div>
 
--E-commerce Site Frontend (React and Redux):
-Designed and implemented the frontend for an e-commerce website using technologies like React and Redux.
+###
 
--Decentralized Application (Dapp) Frontend:
-spearheaded the frontend development of a decentralized application (Dapp) for a Singapore-based company.
+<h3 align="left">🔥   My Stats :</h3>
 
--Online Proctored Exam Platform:
-Led the frontend development of an online proctored exam platform, ensuring a secure and user-friendly experience for participants.
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gravit09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gravit09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=gravit09&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-## Contact
-
-If you have any questions, suggestions, or opportunities you'd like to discuss, feel free to reach out to me at garvitchoudhary09@gmail.com. I'm always excited to connect with fellow developers and engage in meaningful conversations!
-
-## GitHub Repository
-
-You can explore my GitHub repository to see some of the projects I have worked on. Visit [GitHub Profile](https://github.com/gravit09) to access my repositories.
-
-Thank you for taking the time to read my profile!
+###
