@@ -66,8 +66,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <img width="12" />
-  <img src="http://www.w3.org/2000/svg" height="40" alt="netlify logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=remix" height="40" alt="remix logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
